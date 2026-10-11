@@ -30,3 +30,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn" />
 </p>
 
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌬️ [WindSense](https://github.com/beyzabiryol/WindSense)
+
+A wind turbine data analysis and machine learning project.
+
+- Explores wind turbine operational data.
+- Applies data preprocessing and exploratory data analysis.
+- Uses machine learning techniques to analyze turbine performance.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
